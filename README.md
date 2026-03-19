@@ -45,11 +45,11 @@ No es un audífono. Es un compañero que habla con la voz de tu familia.
 
 ## Lo Que No Hace
 
-- ❌ No requiere internet
-- ❌ No envía datos a la nube
-- ❌ No necesita que el nieto configure nada
-- ❌ No reemplaza al cuidador
-- ❌ No cuesta más de 100 USD
+-  No requiere internet
+-  No envía datos a la nube
+-  No necesita que el nieto configure nada
+-  No reemplaza al cuidador
+-  No cuesta más de 100 USD
 
 ---
 
