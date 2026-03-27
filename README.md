@@ -1,5 +1,7 @@
 # Asistente IA Geriátrico
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 **Dispositivo intra-auricular de asistencia integral para adultos mayores con Alzheimer, demencia senil, retinopatía diabética y diabetes tipo 2.**
 
 No es un audífono. Es un compañero que habla con la voz de tu familia.
