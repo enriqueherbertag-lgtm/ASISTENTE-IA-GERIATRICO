@@ -127,12 +127,6 @@ Asistente-IA-Geriatrico/
 
 ---
 
-## Licencia
-
-Apache 2.0 con restricción comercial. Para uso comercial se requiere acuerdo por escrito con el autor.
-
----
-
 ## Autor
 
 **Enrique Aguayo H.**  
