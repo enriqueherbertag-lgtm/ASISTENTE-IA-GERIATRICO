@@ -64,13 +64,6 @@ An elderly person with Alzheimer's cannot read the date on their medication. The
 
 Copyright © 2026 Enrique Aguayo. All rights reserved.
 
-## Author
-
-Enrique Aguayo H. – Mackiber Labs# Geriatric AI Assistant
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19392781.svg)](https://doi.org/10.5281/zenodo.19392781)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
-[![ES](https://img.shields.io/badge/Spanish-version-green.svg)](./README.md)
 
 **An in-ear device that speaks with your family's voice. For elderly people with Alzheimer's, dementia, diabetic retinopathy, and type 2 diabetes.**
 
