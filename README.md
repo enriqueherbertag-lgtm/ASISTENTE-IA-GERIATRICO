@@ -64,13 +64,6 @@ Un adulto mayor con Alzheimer no puede leer la fecha de su medicamento. No recue
 
 Copyright © 2026 Enrique Aguayo. Todos los derechos reservados.
 
-## Autor
-
-Enrique Aguayo H. – Mackiber Labs# Asistente IA Geriátrico
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19392781.svg)](https://doi.org/10.5281/zenodo.19392781)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
-[![EN](https://img.shields.io/badge/English-version-blue.svg)](./README.en.md)
 
 **Un dispositivo intra-auricular que habla con la voz de tu familia. Para adultos mayores con Alzheimer, demencia, retinopatía diabética y diabetes tipo 2.**
 
